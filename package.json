@@ -1,0 +1,17 @@
+{
+  "name": "react-native-tile-view",
+  "version": "1.0.1",
+  "description": "React-native Tileview component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {},
+  "author": "Shawn Dao <sang.dao@newoceaninfosys.com>",
+  "license": "MIT",
+  "bugs": {},
+  "homepage": "https://github.com/daominhsangvn/react-native-tile-view",
+  "dependencies": {
+    "prop-types": "^15.6.2"
+  }
+}
