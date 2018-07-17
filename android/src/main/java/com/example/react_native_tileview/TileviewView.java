@@ -21,6 +21,8 @@ public class TileviewView extends LinearLayout {
         TileView tileView = mActivity.findViewById(R.id.mtileview);
 
         new TileView.Builder(tileView)
+//                .setSize(1024, 1444)
+//                .defineZoomLevel(1, "http://nois.newoceaninfosys.com:44413/media/a5cbb8780015449fa068f8dfde02f856/1-%1$d-%2$d.png")
                 .setSize(17934, 13452)
                 .defineZoomLevel("tiles/phi-1000000-%1$d_%2$d.jpg")
 //                .defineZoomLevel(1, "tiles/phi-500000-%1$d_%2$d.jpg")

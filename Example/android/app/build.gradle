@@ -143,7 +143,7 @@ android {
 }
 
 dependencies {
-    implementation project(':react-native-tileview')
+    implementation project(':react-native-tile-view')
     implementation fileTree(dir: "libs", include: ["*.jar"])
     implementation "com.android.support:appcompat-v7:27.1.1"
     implementation "com.facebook.react:react-native:+"  // From node_modules
